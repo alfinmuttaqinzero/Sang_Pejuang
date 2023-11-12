@@ -10,14 +10,11 @@ public class Dead : MonoBehaviour
     public void Retry()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-       
     }
     public void Quit()
     {
         Application.Quit();
         
     }
-    public void gameOver(){
-        deadMenu.SetActive(true); 
-    }
+   
 }
