@@ -121,7 +121,112 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: HP BAR1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 386
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ed78425b510e4d9c3888cbc2621bb
+      internalID: -1291675304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP BAR1_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 72
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3644ac2667b14b98d2be9189cbcd5
+      internalID: 326002653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP BAR1_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdce8666abab0b4baba9d3826a52fb6
+      internalID: -363387315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP BAR1_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 54
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b38f7261cb6c844a0a662e94554bdf
+      internalID: -1931860891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP BAR1_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 32
+        width: 318
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b74bf2edc410dc46bc0702c19f34334
+      internalID: -1793053153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +237,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HP BAR1_0: -1291675304
+      HP BAR1_1: 326002653
+      HP BAR1_2: -363387315
+      HP BAR1_3: -1931860891
+      HP BAR1_4: -1793053153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
